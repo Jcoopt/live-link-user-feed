@@ -1,0 +1,40 @@
+{
+    "cards": [
+        {
+            "name": "Justin Sullivan",
+            "img": "https://randomuser.me/api/portraits/men/39.jpg",
+            "title": "Consectetur adipiscing elit",
+            "details": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+        },
+        {
+            "name": "Justine Mendoza",
+            "img": "https://randomuser.me/api/portraits/women/2.jpg",
+            "title": "Quisque vitae cursus leo",
+            "details": " Proin non ultrices neque. Fusce tempus cursus leo id scelerisque. Suspendisse lacinia turpis vel lorem placerat dictum at id lorem. Nunc interdum in nisl id tincidunt. Integer luctus neque sapien, vel porta dolor feugiat vitae. Donec vel purus a ipsum hendrerit feugiat pretium at est. In accumsan finibus ullamcorper. "
+        },
+        {
+            "name": "JustinSays",
+            "img": "https://randomuser.me/api/portraits/men/49.jpg",
+            "title": "Morbi elementum nisl non augu",
+            "details": "Donec id magna at dolor faucibus volutpat. Donec vestibulum, ante ac efficitur pretium, arcu magna pulvinar quam, ut volutpat neque erat vitae dolor. Cras porttitor nisl sit amet orci aliquet maximus. Donec sit amet enim fermentum, malesuada massa a, pellentesque urna. Vestibulum ac metus condimentum neque commodo tincidunt. "
+        },
+        {
+            "name": "Julianne Asquith",
+            "img": "https://randomuser.me/api/portraits/women/0.jpg",
+            "title": "In at faucibus erat. ",
+            "details": "Curabitur viverra arcu tortor, quis pretium erat accumsan sed. Suspendisse ac aliquam nisl. Duis suscipit, tortor et ullamcorper pulvinar, massa turpis pellentesque lectus, id dictum justo orci ac lorem. Integer a velit id est posuere convallis semper eu dui. Integer eget vehicula sapien. Fusce ullamcorper fringilla risus, vitae vulputate ante malesuada sed. Cras ut imperdiet sem. Integer vitae quam a velit fringilla hendrerit. "
+        },
+        {
+            "name": "Justind",
+            "img": "https://randomuser.me/api/portraits/men/85.jpg",
+            "title": "Fusce fermentum scelerisque arcu.",
+            "details": "Vestibulum ex dolor, malesuada consequat massa eget, viverra efficitur magna. Praesent pharetra lectus in metus sagittis convallis. Sed interdum eget neque nec molestie. Praesent efficitur vestibulum nunc, sit amet accumsan enim dapibus eu. Donec iaculis turpis in magna egestas pretium. Pellentesque porttitor orci at massa mollis, non rutrum dui varius. Duis pellentesque, nunc vel consequat egestas, nunc risus auctor erat, in efficitur sem turpis eget leo. Praesent euismod et metus ac pellentesque."
+        },
+        {
+            "name": "JustinSays",
+            "img": "https://randomuser.me/api/portraits/men/49.jpg",
+            "title": "Nulla pharetra leo sed libero volutpat",
+            "details": "Nulla in ipsum justo. Fusce sed diam nibh. Morbi sollicitudin nec nulla id lobortis. Maecenas vestibulum risus vitae suscipit gravida. Suspendisse auctor vel odio ut egestas. Duis bibendum euismod augue non blandit. Ut a nibh sit amet arcu consectetur vulputate. Curabitur condimentum nec arcu vitae sagittis. Aenean id blandit leo. Nullam nec nibh eleifend, bibendum ex vitae, venenatis dui."
+        }
+    ]
+}
